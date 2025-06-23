@@ -1,4 +1,3 @@
-
 <script type="text/javascript">
 atOptions = {
   'key': '390f3ea985bb4181fc68682634775ea3',
